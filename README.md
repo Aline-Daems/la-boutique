@@ -1,10 +1,33 @@
 # la-boutique
 
-Projet de base e-commerce en Symfony
+##Projet de base e-commerce en Symfony
+
+### FRONT 
+
+Géré par Twig
+Utilisation de Bootstrap 4
+
+### Back Office 
+
+Géré par Easy admin 
+
+#### Produits 
+
+Ajout
+Suppression
+Modification
+Mise en avant sur la homepage à l'aide du "IsBest"
 
 
-Back Office géré par EasyAdmin avec :
--gestion de commandes
--Ajout, modifications & suppression de produits
--Ajout, modifications & suppression de catégories
--Ajout, modifications & suppression de livreurs
+#### Catégories
+
+Ajout
+Suppression
+Modification
+
+#### Livreurs
+
+Ajout
+Suppression
+Modification
+Mise en avant sur la homepage à l'aide du "IsBest"
