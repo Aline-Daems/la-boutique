@@ -1,6 +1,6 @@
 # la-boutique
 
-##Projet de base e-commerce en Symfony
+## Projet de base e-commerce en Symfony
 
 ### FRONT 
 
@@ -31,3 +31,5 @@ Ajout
 Suppression
 Modification
 Mise en avant sur la homepage à l'aide du "IsBest"
+
+Lien -> https://la-boutique.aline-daems.be/
