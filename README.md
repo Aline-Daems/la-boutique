@@ -1,6 +1,6 @@
 # la-boutique
 
-##Projet de base e-commerce en Symfony
+## Projet de base e-commerce en Symfony
 
 ### FRONT 
 
