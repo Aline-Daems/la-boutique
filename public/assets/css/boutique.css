@@ -10,10 +10,11 @@ body{
     text-align: center;
     position: fixed;
     width: 100%;
-    background-color: #dfeaff;
+    background-color: rgba(154, 154, 154, 0.42);
     padding-top:25px;
     margin-top:50px;
     bottom: 0;
+    height:9%;
 }
 
 .product-item h5{

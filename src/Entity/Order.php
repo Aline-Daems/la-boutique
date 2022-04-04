@@ -52,7 +52,6 @@ class Order
      */
     private $orderDetails;
 
-
     /**
      * @ORM\Column(type="string", length=255)
      */
